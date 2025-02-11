@@ -60,7 +60,7 @@ Este projeto utiliza a placa **BitDogLab** para integrar diversos componentes el
 
 ## 🎥 Vídeo Demonstrativo
 📌 Assista ao vídeo do projeto no link abaixo:
-[Inserir link do vídeo aqui]
+[https://www.youtube.com/shorts/iFL4yYB_dQg]
 
 ---
 
